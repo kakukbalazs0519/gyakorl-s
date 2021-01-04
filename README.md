@@ -14,4 +14,4 @@ Irányított és szabad szöveges riportok szövege.
 
 Fogalomszótár.
 
-
+Vége.
